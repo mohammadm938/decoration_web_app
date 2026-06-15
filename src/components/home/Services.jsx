@@ -10,12 +10,13 @@ export default function Services() {
           text-center
           text-4xl
           font-bold
-          mb-16
+          mb-2
           text-[#0a0a0a]
           "
         >
           خدمات ما
         </h2>
+        <p className="w-12 h-1 bg-[#C9A227] mx-auto mb-16 "></p>
 
         <div
           className="
